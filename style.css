@@ -1,1 +1,18 @@
-p { background-color: red; }
+body{
+    color: yellow;
+}
+
+#red-part{
+    color:red
+}
+
+#yellow-part{
+    color: yellow
+}
+#violet-part{
+    color:blueviolet
+}
+
+#blue{
+    color:blue
+}
