@@ -1,5 +1,18 @@
 body{
-    color: yellow;
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    color:#555;
+}
+
+code {
+    padding: 2px 4px;
+    vertical-align: text-bottom;
+    background: #eee;
+}
+
+h1 {
+    color: #333;
 }
 
 #red-part{
